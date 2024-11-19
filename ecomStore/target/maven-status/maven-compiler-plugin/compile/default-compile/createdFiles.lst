@@ -1,0 +1,4 @@
+com\learning\simpleWebApp\model\Product.class
+com\learning\simpleWebApp\service\ProductService.class
+com\learning\simpleWebApp\controller\ProductController.class
+com\learning\simpleWebApp\SimpleWebAppApplication.class
